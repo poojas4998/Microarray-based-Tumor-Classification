@@ -2,15 +2,17 @@
 
 This repository contains Group 5's BF528 Project 1 files. As a result of reproducing the study - "Gene expression classification of colon cancer into molecular subtypes: characterization, validation, and prognostic value", this repository mainly consists of R scripts, output files and a final report.  
 
+For the first project, I was reponsible for the data curation part which invloved navigating the Gene Expression Omnibus (GEO) database and downloading publicly available microarray data to share to my group members (programmer, analyst and biologist) in this pipeline.
+
 # Contributors
 
-Manasa Rupuru - manasarapuru
+Manasa Rupuru - manasarapuru (Analyst)
 
 Pooja Savla - poojas4998 (Data Curator)
 
-Pragya Rawat - rpragya17 
+Pragya Rawat - rpragya17 (Biologist)
 
-Vrinda Jethalia - vrindajethalia799
+Vrinda Jethalia - vrindajethalia799 (Programmer)
 
 # Repository Contents
 BF528_Project1_Report_G5.pdf - Final Report 
