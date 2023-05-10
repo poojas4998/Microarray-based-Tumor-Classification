@@ -6,9 +6,9 @@ This repository contains Group 5's BF528 Project 1 files. As a result of reprodu
 
 Manasa Rupuru - manasarapuru
 
-Pooja Savla - poojas4998
+Pooja Savla - poojas4998 (Data Curator)
 
-Pragya Rawat - rpragya17
+Pragya Rawat - rpragya17 
 
 Vrinda Jethalia - vrindajethalia799
 
