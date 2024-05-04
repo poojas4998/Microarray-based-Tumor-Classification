@@ -1,3 +1,4 @@
+# Project 1: Microarray based Tumor Classification
 # Project Description
 
 This repository contains Group 5's BF528 Project 1 files. As a result of reproducing the study - "Gene expression classification of colon cancer into molecular subtypes: characterization, validation, and prognostic value", this repository mainly consists of R scripts, output files and a final report.  
