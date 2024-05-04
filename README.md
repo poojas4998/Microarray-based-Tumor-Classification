@@ -1,11 +1,11 @@
 # Project 1: Microarray based Tumor Classification
-# Project Description
+## Project Description
 
 This repository contains Group 5's BF528 Project 1 files. As a result of reproducing the study - "Gene expression classification of colon cancer into molecular subtypes: characterization, validation, and prognostic value", this repository mainly consists of R scripts, output files and a final report.  
 
 For the first project, I was reponsible for the data curation part which invloved navigating the Gene Expression Omnibus (GEO) database and downloading publicly available microarray data to share to my group members (programmer, analyst and biologist) in this pipeline.
 
-# Contributors
+## Contributors
 
 Manasa Rupuru - manasarapuru (Analyst)
 
@@ -15,7 +15,7 @@ Pragya Rawat - rpragya17 (Biologist)
 
 Vrinda Jethalia - vrindajethalia799 (Programmer)
 
-# Repository Contents
+## Repository Contents
 BF528_Project1_Report_G5.pdf - Final Report 
 
 project-1-programmer.R - Script written for data preprocessing & quality control. It can be executed using the R console or an integrated development environment (IDE) like RStudio. The programmer also added it as .rmd and knitted the report to html (project-1-programmer.rmd, project-1-programmer.html). All of this is in the programmer_scripts folder.  
